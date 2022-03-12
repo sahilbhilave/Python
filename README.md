@@ -1,3 +1,2 @@
 # Python
-Python projects
-This is a locally typed message on my computer
+I am editing the README file from another server
